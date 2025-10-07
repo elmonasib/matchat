@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matches</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <div class="haeder">
+        <img src="image/logo.png" alt="Logo">
+
+        <!-- أيقونة القائمة للهاتف -->
+        <div class="menu-icon" id="menu-icon">
+            <i class="fa fa-bars"></i>
+        </div>
+
+        <!-- روابط الهيدر -->
+        <nav class="nav-links" id="nav-links">
+            <a href="#today" id="link-today">مباريات اليوم</a>
+            <a href="#tomorrow" id="link-tomorrow">مباريات الغد</a>
+            <a href="#yesterday" id="link-yesterday">مباريات الأمس</a>
+            <!-- أيقونة الوضع الليلي -->
+            <div class="dark-mode-toggle" id="dark-mode-toggle">
+                <i class="fa fa-moon"></i>
+            </div>
+        </nav>
+    </div>
+
+    <div class="daymatch" id="today"><h4>مباريات اليوم</h4></div>
+    <div class="content">
+        <div class="grid-today"></div>
+    </div>
+
+    <div class="daymatch" id="tomorrow"><h4>مباريات الغد</h4></div>
+    <div class="content">
+        <div class="grid-tomorrow"></div>
+    </div>
+
+    <div class="daymatch" id="yesterday"><h4>مباريات الأمس</h4></div>
+    <div class="content">
+        <div class="grid-yesterday"></div>
+    </div>
+
+    <div class="futter">
+        <div class="brand">
+           <i class="fa-brands fa-whatsapp"></i>
+           <i class="fa-brands fa-facebook"></i>
+           <i class="fa-brands fa-instagram"></i>
+        </div>
+        <div class="sen">
+            <p>Spernt CDT</p>
+            <p>2025</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

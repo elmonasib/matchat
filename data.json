@@ -1,0 +1,17 @@
+{
+  "matches": [
+    {
+      "league": " تصفيات كاس العالم ",
+      "flagleague": "image/fifa/cup26.png",
+      "team1": {"name": " جيبوتي", "flag": "image/40/dj.png"},
+      "team2": {"name": "مصر", "flag": "image/40/eg.png"},
+      "time": "17:00",
+      "score": "  3-3",
+      "channel": "bein sport1",
+      
+      "date": "2025-10-08"
+    }
+    
+
+  ]
+}
