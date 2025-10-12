@@ -23,7 +23,7 @@ body {
   align-items: center;
   justify-content: space-around;
   padding: 0 50px;
-  background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+  background-color: #f8ebeb;
   color: #1a1a1a;
   position: fixed;
   width: 100%;
@@ -113,7 +113,7 @@ body.dark-mode .nav-links a {
 .box1 {
   height: 90px;
   width: 300px;
-  background-color: #fff;
+  background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -168,24 +168,32 @@ body.dark-mode .nav-links a {
   display: flex;
   justify-content: space-around;
   height: 60px;
-  width: 280px;
+  width: 250px;
   align-items: center;
+  
+  
 }
 
 .date {
   font-size: 12px;
+  height: 40px;
+  width: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  
+  
 }
 
 .flag1, .flag2 {
   height: 40px;
-  width: 110px;
+  width: 105px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
+  
 }
 
 .flag1 p, .flag2 p {
@@ -214,7 +222,7 @@ body.dark-mode .nav-links a {
   height: 98px;
   width: 100%;
   background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
-  margin-top: 50px;
+  margin-top: auto;
   display: flex;
   justify-content: space-around;
   align-items: center;
