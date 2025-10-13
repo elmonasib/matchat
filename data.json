@@ -3,8 +3,8 @@
     {
       "league": " تصفيات كاس العالم ",
       "flagleague": "image/20/fifa1.png",
-      "team1": {"name": " جيبوتي", "flag": "image/40/vc.png"},
-      "team2": {"name": "مصر", "flag": "image/40/ve.png"},
+      "team1": {"name": " كامرون", "flag": "image/40/vc.png"},
+      "team2": {"name": "أنغولا", "flag": "image/40/ve.png"},
       "time": "17:00",
       "score": "  3-3",
       "channel": "bein sport1",
