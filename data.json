@@ -1,26 +1,26 @@
 {
   "matches": [
     {
-      "league": " تصفيات كاس العالم ",
-      "flagleague": "image/20/fifa1.png",
-      "team1": {"name": " جيبوتي", "flag": "image/40/dj.png"},
-      "team2": {"name": "مصر", "flag": "image/40/eg.png"},
-      "time": "17:00",
-      "score": "  3-3",
-      "channel": "bein sport1",
+      "league": " الدوري السعودي ",
+      "flagleague": "image/20/asia/sa.png",
+      "team1": {"name": " الفيحاء", "flag": "image/club/saudi-arabia_al-fayha_32x32.png"},
+      "team2": {"name": "الاتحاد", "flag": "image/club/itihad.png"},
+      "time": "16:05",
+      "score": "  ",
+      "channel": "قناة ثمانية ",
       
-      "date": "2025-10-11"
+      "date": "2025-10-17"
     },
     {
-      "league": "  دوري ابطال اوروبا  ",
-      "flagleague": "image/club/champions-league.png",
-      "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
-      "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
+      "league": "  كاس العالم اقل من 20  ",
+      "flagleague": "image/20/fifa1.png",
+      "team1": {"name": " مغرب", "flag": "image/40/ma.png"},
+      "team2": {"name": "فرنسا", "flag": "image/40/fr.png"},
       "time": "17:00",
-      "score": "  3-3",
+      "score": "  0-0",
       "channel": "bein sport1",
       
-      "date": "2025-10-12"
+      "date": "2025-10-15"
     },
 
     {
@@ -100,3 +100,4 @@
 
   ]
 }
+
