@@ -32,7 +32,7 @@
       "score": "  3-3",
       "channel": "bein sport1",
       
-      "date": "2025-10-13"
+      "date": "2025-10-14"
     },
 
      {
@@ -44,7 +44,7 @@
       "score": "  3-3",
       "channel": "bein sport1",
       
-      "date": "2025-10-13"
+      "date": "2025-10-14"
     },
 
      {
@@ -64,7 +64,7 @@
       "flagleague": "image/club/champions-league.png",
       "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
       "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
-      "time": "17:00",
+      "time": "20:00",
       "score": "  3-3",
       "channel": "bein sport1",
       
@@ -76,7 +76,7 @@
       "flagleague": "image/20/fw.png",
       "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
       "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
-      "time": "17:00",
+      "time": "20:00",
       "score": "  3-3",
       "channel": "bein sport1",
       
@@ -87,7 +87,7 @@
       "league": "  دوري ابطال اوروبا  ",
       "flagleague": "image/20/vn.png",
       "team1": {"name": "برشلونة", "flag": "image/club/fcb.png"},
-      "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
+      "team2": {"name": "مانشيستر", "flag": "image/club/rm.png"},
       "time": "19:00",
       "score": "  3-7",
       "channel": "bein sport1",
