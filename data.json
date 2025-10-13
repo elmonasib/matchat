@@ -85,14 +85,14 @@
 
      {
       "league": "  دوري ابطال اوروبا  ",
-      "flagleague": "image/club/champions-league.png",
-      "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
+      "flagleague": "image/20/vn.png",
+      "team1": {"name": " جيفونتس", "flag": "image/club/fcb.png"},
       "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
       "time": "17:00",
-      "score": "  3-3",
+      "score": "  3-7",
       "channel": "bein sport1",
       
-      "date": "2025-10-13"
+      "date": "2025-10-12"
     }
 
 
