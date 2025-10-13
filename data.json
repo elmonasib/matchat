@@ -2,54 +2,42 @@
   "matches": [
     {
       "league": " تصفيات كاس العالم ",
-      "flagleague": "image/20/vc.png",
-      "team1": {"name": " كامرون", "flag": "image/40/vc.png"},
-      "team2": {"name": "أنغولا", "flag": "image/40/ve.png"},
+      "flagleague": "image/20/fifa1.png",
+      "team1": {"name": " جيبوتي", "flag": "image/40/dj.png"},
+      "team2": {"name": "مصر", "flag": "image/40/eg.png"},
       "time": "17:00",
       "score": "  3-3",
       "channel": "bein sport1",
       
-      "date": "2025-10-13"
+      "date": "2025-10-11"
     },
     {
       "league": "  دوري ابطال اوروبا  ",
-      "flagleague": "image/20/vc.png",
+      "flagleague": "image/club/champions-league.png",
       "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
       "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
       "time": "17:00",
       "score": "  3-3",
       "channel": "bein sport1",
       
-      "date": "2025-10-14"
+      "date": "2025-10-12"
     },
 
     {
       "league": " تصفيات كاس العالم ",
-      "flagleague": "image/20/vn.png",
+      "flagleague": "image/club/champions-league.png",
       "team1": {"name": " بيارن ميونخ", "flag": "image/club/bayern-munchen.png"},
       "team2": {"name": "الهلال", "flag": "image/club/al-hilal.png"},
       "time": "17:00",
       "score": "  3-3",
       "channel": "bein sport1",
       
-      "date": "2025-10-14"
+      "date": "2025-10-13"
     },
 
      {
       "league": "  دوري ابطال اوروبا  ",
-      "flagleague": "image/20/vr.png",
-      "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
-      "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
-      "time": "17:00",
-      "score": "  3-3",
-      "channel": "bein sport1",
-      
-      "date": "2025-10-14"
-    },
-
-     {
-      "league": "  دوري ابطال اوروبا  ",
-      "flagleague": "image/20/wf.png",
+      "flagleague": "image/club/champions-league.png",
       "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
       "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
       "time": "17:00",
@@ -61,10 +49,10 @@
 
      {
       "league": "  دوري ابطال اوروبا  ",
-      "flagleague": "image/20/wf.png",
+      "flagleague": "image/club/champions-league.png",
       "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
       "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
-      "time": "20:00",
+      "time": "17:00",
       "score": "  3-3",
       "channel": "bein sport1",
       
@@ -73,23 +61,35 @@
 
      {
       "league": "  دوري ابطال اوروبا  ",
-      "flagleague": "image/20/wf.png",
+      "flagleague": "image/club/champions-league.png",
       "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
       "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
-      "time": "20:00",
+      "time": "17:00",
       "score": "  3-3",
       "channel": "bein sport1",
       
-      "date": "2025-10-14"
+      "date": "2025-10-13"
     },
 
      {
       "league": "  دوري ابطال اوروبا  ",
-      "flagleague": "image/20/vn.png",
-      "team1": {"name": "برشلونة", "flag": "image/club/fcb.png"},
-      "team2": {"name": "مانشيستر", "flag": "image/club/rm.png"},
-      "time": "19:00",
-      "score": "  3-7",
+      "flagleague": "image/club/champions-league.png",
+      "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
+      "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
+      "time": "17:00",
+      "score": "  3-3",
+      "channel": "bein sport1",
+      
+      "date": "2025-10-12"
+    },
+
+     {
+      "league": "  دوري ابطال اوروبا  ",
+      "flagleague": "image/club/champions-league.png",
+      "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
+      "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
+      "time": "17:00",
+      "score": "  3-3",
       "channel": "bein sport1",
       
       "date": "2025-10-13"
