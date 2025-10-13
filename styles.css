@@ -14,6 +14,7 @@ body {
   flex-direction: column;
   align-items: center;
   padding-top: 70px;
+  padding-bottom: 70px;
   transition: background 0.3s, color 0.3s;
 }
 
@@ -219,14 +220,19 @@ body.dark-mode .nav-links a {
 }
 
 .futter {
-  height: 98px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
   width: 100%;
   background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
-  margin-top: auto;
+  color: #000;
+  height: 70px;
   display: flex;
   justify-content: space-around;
   align-items: center;
+  z-index: 999;
 }
+
 
 .brand {
   font-size: 25px;
@@ -237,7 +243,9 @@ body.dark-mode .nav-links a {
 
 .sen {
   display: flex;
-  flex-direction: column;
+  justify-content: space-evenly;
+  height: 30px;
+  width: 200px;
 }
 
 /* الوضع الليلي */
