@@ -13,7 +13,7 @@
     },
     {
       "league": "  دوري ابطال اوروبا  ",
-      "flagleague": "image/club/champions-league.png",
+      "flagleague": "image/20/vc.png",
       "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
       "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
       "time": "17:00",
@@ -25,7 +25,7 @@
 
     {
       "league": " تصفيات كاس العالم ",
-      "flagleague": "image/club/champions-league.png",
+      "flagleague": "image/20/vn.png",
       "team1": {"name": " بيارن ميونخ", "flag": "image/club/bayern-munchen.png"},
       "team2": {"name": "الهلال", "flag": "image/club/al-hilal.png"},
       "time": "17:00",
@@ -37,14 +37,14 @@
 
      {
       "league": "  دوري ابطال اوروبا  ",
-      "flagleague": "image/club/champions-league.png",
+      "flagleague": "image/20/vr.png",
       "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
       "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
       "time": "17:00",
       "score": "  3-3",
       "channel": "bein sport1",
       
-      "date": "2025-10-14"
+      "date": "2025-10-13"
     },
 
      {
@@ -56,7 +56,7 @@
       "score": "  3-3",
       "channel": "bein sport1",
       
-      "date": "2025-10-13"
+      "date": "2025-10-12"
     },
 
      {
