@@ -2,7 +2,7 @@
   "matches": [
     {
       "league": " تصفيات كاس العالم ",
-      "flagleague": "image/20/fifa1.png",
+      "flagleague": "image/20/vc.png",
       "team1": {"name": " كامرون", "flag": "image/40/vc.png"},
       "team2": {"name": "أنغولا", "flag": "image/40/ve.png"},
       "time": "17:00",
