@@ -38,8 +38,8 @@
      {
       "league": "  كاس العالم اقل من 20  ",
       "flagleague": "image/20/fifa1.png",
-      "team1": {"name": " الارجنتين 20", "flag": "image/40/ar.png"},
-      "team2": {"name": "كولومبيا 20", "flag": "image/40/co.png"},
+      "team1": {"name": " الارجنتين 20", "flag": "image/40/amirica/ar.png"},
+      "team2": {"name": "كولومبيا 20", "flag": "image/40/amirica/co.png"},
       "time": "00:00",
       "score": "  0-0",
       "channel": "bein sport1",
@@ -88,6 +88,7 @@
 
   ]
 }
+
 
 
 
