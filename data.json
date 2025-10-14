@@ -45,14 +45,50 @@
       "channel": "bein sport1",
       
       "date": "2025-10-16"
-    }
+    },
 
     
+  {
+      "league": "  الدوري السعودي  ",
+      "flagleague": "image/20/sa.png",
+      "team1": {"name": " الاهلي", "flag": "image/club/al-ahli.png"},
+      "team2": {"name": "الشباب", "flag": "image/club/al-shabab.png"},
+      "time": "19:00",
+      "score": "  0-0",
+      "channel": "bein sport1",
+      
+      "date": "2025-10-17"
+    },
+
+    {
+      "league": "  الدوري الالماني  ",
+      "flagleague": "image/20/de.png",
+      "team1": {"name": " انيون برلين", "flag": "image/club/union-berlin.png"},
+      "team2": {"name": "غلادباخ", "flag": "image/club/monchengladbach.png"},
+      "time": "19:30",
+      "score": "  0-0",
+      "channel": "bein sport1",
+      
+      "date": "2025-10-17"
+    }
+
+    {
+      "league": "  الدوري الفرنسي  ",
+      "flagleague": "image/20/fr.png",
+      "team1": {"name": " باريس سان جرمان", "flag": "image/club/ps2.png"},
+      "team2": {"name": "ستراسبورغ", "flag": "image/club/strasbourg.png"},
+      "time": "19:30",
+      "score": "  0-0",
+      "channel": "bein sport 5 ",
+      
+      "date": "2025-10-17"
+    }
 
     
 
   ]
 }
+
 
 
 
