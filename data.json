@@ -14,37 +14,37 @@
     {
       "league": "  كاس العالم اقل من 20  ",
       "flagleague": "image/20/fifa1.png",
-      "team1": {"name": " مغرب", "flag": "image/40/africa/ma.png"},
-      "team2": {"name": "فرنسا", "flag": "image/40/eropa/fr (2).png"},
-      "time": "17:00",
+      "team1": {"name": "  مغرب 20", "flag": "image/40/africa/ma.png"},
+      "team2": {"name": "فرنسا 20", "flag": "image/40/eropa/fr (2).png"},
+      "time": "21:00",
       "score": "  0-0",
       "channel": "bein sport1",
       
-      "date": "2025-10-14"
+      "date": "2025-10-15"
     },
 
     {
-      "league": " تصفيات كاس العالم ",
-      "flagleague": "image/club/champions-league.png",
-      "team1": {"name": " بيارن ميونخ", "flag": "image/club/bayern-munchen.png"},
-      "team2": {"name": "الهلال", "flag": "image/club/al-hilal.png"},
-      "time": "17:00",
-      "score": "  3-3",
+      "league": "الدوري الاسباني",
+      "flagleague": "image/club/liga.png",
+      "team1": {"name": " ريال اوفيدو", "flag": "image/club/bayern-munchen.png"},
+      "team2": {"name": "اسبنيول", "flag": "image/club/espanyol.png"},
+      "time": "20:00",
+      "score": "  0-0",
       "channel": "bein sport1",
       
-      "date": "2025-10-14"
+      "date": "2025-10-17"
     },
 
      {
-      "league": "  دوري ابطال اوروبا  ",
-      "flagleague": "image/club/champions-league.png",
-      "team1": {"name": " جيفونتس", "flag": "image/club/juventus.png"},
-      "team2": {"name": "مانشيستر", "flag": "image/club/manchester-united.png"},
-      "time": "17:00",
-      "score": "  3-3",
+      "league": "  كاس العالم اقل من 20  ",
+      "flagleague": "image/20/fifa1.png",
+      "team1": {"name": " الارجنتين 20", "flag": "image/40/ar.png"},
+      "team2": {"name": "كولومبيا 20", "flag": "image/40/co.png"},
+      "time": "00:00",
+      "score": "  0-0",
       "channel": "bein sport1",
       
-      "date": "2025-10-14"
+      "date": "2025-10-16"
     },
 
      {
@@ -100,5 +100,6 @@
 
   ]
 }
+
 
 
